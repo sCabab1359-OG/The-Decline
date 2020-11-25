@@ -20,7 +20,8 @@ Pixel man - Youtube - Helped with Rain Storm & Lightning Strike with this tutori
 
 
 
-DESIRED FEATURES: (I only need the FEATURES added, no pixel art or animations, i am currently working on those, so use what ever you need to use in its place. Same with Sound                      effects, I am an audio engineer so I got that handled. Thank you Sooo MUCH for your help with this. Every contributer will be mentioned and credited in the                      game start up screen and the end credits where the details of what you added and helped with will be mentioned in more detail. If you would like some help                        with sound design let me know what i can do.) 
+DESIRED FEATURES: PLEASE PLACE NEW FEATURES INTO ADDED FEATURES FOLDER WITH A PROPER NAME DESCRIBING THE FEATURE AND A RESOURCES FILE TO GO WITH IT eg. RainStorm.tscn and                         RainStorm Resource Files folder both placed into a RainStorm Folder
+                  (I only need the FEATURES added, no pixel art or animations, i am currently working on those, so use what ever you need to use in its place. Same with Sound                      effects, I am an audio engineer so I got that handled. Thank you Sooo MUCH for your help with this. Every contributer will be mentioned and credited in the                      game start up screen and the end credits where the details of what you added and helped with will be mentioned in greater detail. If you would like some help                        with sound design let me know what i can do.) 
 
 Foot Steps-               Run audio loop of foot steps when player is walking. Possibly run different audio file for different types of surfaces being walked on. Possibly add as                           a script to tile sets with editable audio file selection? possibly a better way thats just what my brain came up with...
 
@@ -63,4 +64,6 @@ NPC System -              A few npc templates. 1) NPC gives information -  NPC w
  
  
  If you have any other ideas for things to add please let me know. The Legend Of Zelda - A Link to the Past is one of my all time favorite games. This project aims to bring back some of my favorite features that the game offered while expanding on other things that never exsisted in that world. All while being tied together with my families love for punk rock. I hope, with your help that we can get this up and running and hopefully this can be used as a base game for others to build off of. Thanks again for all the help.
+ 
+ more features will be added to the list as we think of them.
  
