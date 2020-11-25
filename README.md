@@ -9,7 +9,12 @@ Thanks for helping.
 The Game will be played with a standard xbox one controller.https://support.plex.tv/wp-content/uploads/sites/4/2015/07/xb1-controller-buttons-sm.png But "View" and Menu" will be refered to as "Select" and "Start"
 
 Contributers: (Couldn't have done any of it without you)
-Alphie - Godot Forums - helped with show dead grass when grass is destroyed - Thanks! https://godotengine.org/qa/87040/leaving-dead-grass-when-swiping-grass-with-a-sword?show=87237#c87237
+
+HeartBeast - YouTube - Game Base built off of his tutorial - https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Alphie - Godot Forums - Helped with show dead grass when grass is destroyed - Thanks! https://godotengine.org/qa/87040/leaving-dead-grass-when-swiping-grass-with-a-sword?show=87237#c87237
+
+Pixel man - Youtube - Helped with Rain Storm & Lightning Strike with this tutorial - https://www.youtube.com/watch?v=zovZ1ZOgCBU&ab_channel=Pixelman
 
 
 
